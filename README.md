@@ -15,7 +15,7 @@ Welcome to the repository for the book [Embracing the Power of Cloud Hosting for
 7. [Community](#community)
 
 ## About the Book
-<a href="https://arcchieonline.com/books"><img src="/resources/cybersecurity_thumbnail.jpg" height="300px" align="right"></a>
+<a href="https://arcchieonline.com/books"><img src="/resources/thumbnail.jpg" height="300px" align="right"></a>
 This comprehensive guide takes you on a transformative journey of migrating the banking IT solutions to the cloud, understanding the challenges and the nuances involved through this journey and how to overcome them. The book is a rare blend of functional and technical which  demystifies the financial landscape, security and compliance requirements, and technical challenges. It dwells into the complex concepts of cloud transformations to empower both novice enthusiasts and seasoned professionals. Dive into the core of Banking solutions, unraveling the intricacies of cloud adoption and deployment. Starting with the  “Evolution of banking” all the way to “ The peak into the future of IT in financial sector”, this book pushes the boundaries and equips you with the tools to explore the possibilities and power of IT solutions. Whether you're are a novice who wants to understand financial sector, a programmer, tech innovator, architect, business analyst or a business leader, this book equips you with actionable insights to elevate your role. Implement hands-on techniques, bridge theory with real-world applications, and understand the security and compliance requirements.
 
 ## Repository Contents
